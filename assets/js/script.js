@@ -7,7 +7,7 @@ $(function(){
 	}
 
 	// The URL of the web page
-	var url = 'http://' + window.location.hostname + ':' + window.location.port;
+	var url = 'http://desenhe.herokuapp.com:8080/';
 
 	var doc = $(document),
 		win = $(window),
